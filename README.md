@@ -21,8 +21,8 @@ Before running the application, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/todo-list-spring-boot.git
-cd todo-list-spring-boot
+git clone https://github.com/tarikii/todoapp-springboot.git
+cd todoapp-spring-boot
 ```
 ### 2. Set Up MySQL Database
 ```bash
